@@ -1,11 +1,3 @@
-// import function
-const { promptUser, runCommand, menuOrQuit } = require('./lib/promptUser');
+const App = require('./lib/App');
 
-// inititalize app
- promptUser()
- .then(menu => {
-    runCommand(menu);
- })
- .catch(err => {
-   console.log(err)
- });
+new App().init();
