@@ -8,7 +8,7 @@ This application is initialized by running the `npm run start` command in the co
 
 ## Demonstration 
 A video demonstration of the functionality of this application is provided below.
-[! [demo](<img width="526" alt="image" src="https://user-images.githubusercontent.com/86696492/165432393-7f0965c7-254f-411e-b849-996fbd0becc6.png">)(https://bootcampspot.instructuremedia.com/embed/2f37d55d-9779-48c0-afb0-d0dbb1b618ce)]
+[! [demo] (<img width="526" alt="image" src="https://user-images.githubusercontent.com/86696492/165432393-7f0965c7-254f-411e-b849-996fbd0becc6.png">)(https://bootcampspot.instructuremedia.com/embed/2f37d55d-9779-48c0-afb0-d0dbb1b618ce)]
 
 
 ## Questions
